@@ -10,7 +10,7 @@ Innovative Developer with 4+ years in Technology in Front end Development. I ser
 *   🖥️  See my portfolio at [My Portfolio](http://frontendrittik.site/)
 *   ✉️  You can contact me at [Rittik.SK@hotmail.com](mailto:Rittik.SK@hotmail.com)
 *   🚀  I'm currently working on [Current CRM Project](http://ongoingprojectdisplay.online/e-cashbook/)
-*   🧠  I'm learning Vite JS<a href="https://www.github.com/Astarand" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Vite JS<br><a href="https://www.github.com/Astarand" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Astarand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/RittikSadhukhan" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/RittikSadhukhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
