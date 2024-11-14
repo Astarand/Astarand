@@ -25,6 +25,9 @@ I specialize in a variety of technologies. Here’s what I love working with:
 ![PHP](https://img.shields.io/badge/-PHP-1A53EA?style=for-the-badge&logo=php&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-FFB700?style=for-the-badge&logo=cakephp&logoColor=white)
 
+#### **Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/-AWS-FFB700?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 #### **Databases:**
 ![MySQL](https://img.shields.io/badge/-MySQL-FFB700?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1A53EA?style=for-the-badge&logo=mongodb&logoColor=white)
