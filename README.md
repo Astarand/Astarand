@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rittik Sadhukhan!
-**Co-Founder of Tech Bepari Pvt. Ltd. | Full Stack Developer | Digital Marketer**
+**Co-Founder of TechKrafty | Full Stack Developer | Digital Marketer**
 
 Welcome to my GitHub profile! I’m passionate about building innovative, efficient, and scalable solutions. Let's collaborate and make the digital world better together!
 
