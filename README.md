@@ -39,9 +39,9 @@ I specialize in a variety of technologies. Here’s what I love working with:
 Here are some of my GitHub stats that show my journey and dedication to learning and growing as a developer:
 
 <div align="center">
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Astarand&show_icons=true&count_private=true&theme=dark&hide_border=true" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astarand&layout=compact&theme=dark&langs_count=4&hide_border=true" width="50%"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Astarand&show_icons=true&count_private=true&theme=dark&hide_border=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astarand&layout=compact&theme=dark&langs_count=4&hide_border=true" width="45%"/>
   </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astarand&theme=black-ice&hide_border=true" width="100%"/>
 </div>
