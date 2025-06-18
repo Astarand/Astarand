@@ -87,7 +87,7 @@ const rittik = {
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="💰" width="25" /> **E-Cashbook** | ⚛️ **meta-React** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="25" /> **360Business** |
+| 💰 **E-Cashbook** | ⚛️ **meta-React** | 💼 **360Business** |
 |:---:|:---:|:---:|
 | Financial management tool built with **Laravel & MySQL** | Advanced React & Next.js showcase with modern UI/UX | Comprehensive business solution with **CakePHP & ReactJS** |
 | [![E-Cashbook](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=E-Cashbook&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/E-Cashbook) | [![meta-React](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=meta-React&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/meta-React) | [![360Business](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=360Business&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/360-Biz-Services.git) |
