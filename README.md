@@ -83,11 +83,11 @@ const rittik = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="35" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="💰" width="25" /> **E-Cashbook** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Atom%20Symbol.png" alt="⚛️" width="25" /> **meta-React** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="25" /> **360Business** |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="💰" width="25" /> **E-Cashbook** | ⚛️ **meta-React** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="25" /> **360Business** |
 |:---:|:---:|:---:|
 | Financial management tool built with **Laravel & MySQL** | Advanced React & Next.js showcase with modern UI/UX | Comprehensive business solution with **CakePHP & ReactJS** |
 | [![E-Cashbook](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=E-Cashbook&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/E-Cashbook) | [![meta-React](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=meta-React&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/meta-React) | [![360Business](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=360Business&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/360-Biz-Services.git) |
@@ -98,11 +98,11 @@ const rittik = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Skills
+## 🏆 Achievements & Skills
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="25" /> Core Competencies
+### 🔥 Core Competencies Core Competencies
 
 ```yaml
 Technical Skills:
@@ -119,10 +119,10 @@ Soft Skills:
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="25" /> Professional Highlights
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **Co-Founded ClicknGo Tech Service Pvt.Ltd** - Leading innovative web solutions
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **6+ Years Experience** - Full-stack development expertise
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **96+ Projects Delivered** - From startups to enterprise solutions
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **Digital Marketing Expert** - SEO, SEM, and growth strategies
+- ⭐ **Co-Founded ClicknGo Tech Service Pvt.Ltd** - Leading innovative web solutions
+- ⭐ **6+ Years Experience** - Full-stack development expertise
+- ⭐ **96+ Projects Delivered** - From startups to enterprise solutions
+- ⭐ **Digital Marketing Expert** - SEO, SEM, and growth strategies
 
 </div>
 
@@ -130,7 +130,7 @@ Soft Skills:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="35" /> Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
