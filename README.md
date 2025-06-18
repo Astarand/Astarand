@@ -1,95 +1,197 @@
-# 👋 Hi, I'm Rittik Sadhukhan!
-**Co-Founder of TechKrafty | Full Stack Developer | Digital Marketer**
-
-Welcome to my GitHub profile! I’m passionate about building innovative, efficient, and scalable solutions. Let's collaborate and make the digital world better together!
-
-![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQH6REgaPJ7IRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723303052403?e=1736985600&v=beta&t=R-lv7tTaGsGoKAocYNA8y8xNeYnJm4-NKWnXehP1rwo)
-
----
-
-### 🛠️ **My Tech Stack**
-
-I specialize in a variety of technologies. Here’s what I love working with:
-
-#### **Frontend:**
-![HTML5](https://img.shields.io/badge/-HTML5-FFB700?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1A53EA?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFB700?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/-ReactJS-1A53EA?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-142132?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-FFB700?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-142132?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FFB700?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-1A53EA?style=for-the-badge&logo=php&logoColor=white)
-![CakePHP](https://img.shields.io/badge/-CakePHP-FFB700?style=for-the-badge&logo=cakephp&logoColor=white)
-
-#### **Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/-AWS-FFB700?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-#### **Databases:**
-![MySQL](https://img.shields.io/badge/-MySQL-FFB700?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1A53EA?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 📊 **GitHub Stats**
-
-Here are some of my GitHub stats that show my journey and dedication to learning and growing as a developer:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0&animation=twinkling"/>
+</div>
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Astarand&show_icons=true&count_private=true&theme=dark&hide_border=true" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astarand&layout=compact&theme=dark&langs_count=4&hide_border=true" width="45%"/>
-  </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astarand&theme=black-ice&hide_border=true" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Hi,+I'm+Rittik+Sadhukhan!;Co-Founder+of+ClicknGO;Full+Stack+Developer;Digital+Marketing+Expert;Building+the+Future+with+Code!" alt="Typing SVG" />
 </div>
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="👨‍💻" width="35" /> About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```typescript
+const rittik = {
+    pronouns: "He" | "Him",
+    location: "West Bengal, India 🇮🇳",
+    company: "ClicknGo (Co-Founder)",
+    role: "Full Stack Developer & Digital Marketing Expert",
+    experience: "6+ years",
+    passion: ["Innovation", "Problem Solving", "Scalable Solutions"],
+    currentFocus: "Building next-gen web applications",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" /> Tech Arsenal
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="25" /> Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" /> Backend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="🗄️" width="25" /> Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,kubernetes" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="⚒️" width="25" /> Development Tools
+  <p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title="Adobe Photoshop" alt="Photoshop" />
+</p>
+
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Astarand&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Rittik's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astarand&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Astarand&theme=highcontrast&hide_border=true&border_radius=10&card_width=800&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&currStreakNum=FFFFFF&sideLabels=A9FEF7&dates=c9d1d9" alt="Rittik's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astarand&custom_title=Rittik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="35" /> Featured Projects
+
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="💰" width="25" /> **E-Cashbook** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Atom%20Symbol.png" alt="⚛️" width="25" /> **meta-React** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="25" /> **360Business** |
+|:---:|:---:|:---:|
+| Financial management tool built with **Laravel & MySQL** | Advanced React & Next.js showcase with modern UI/UX | Comprehensive business solution with **CakePHP & ReactJS** |
+| [![E-Cashbook](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=E-Cashbook&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/E-Cashbook) | [![meta-React](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=meta-React&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/meta-React) | [![360Business](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=360Business&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/360-Biz-Services.git) |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Skills
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="25" /> Core Competencies
+
+```yaml
+Technical Skills:
+  Frontend: [ "React Ecosystem", "Modern CSS", "JavaScript ES6+", "TypeScript" ]
+  Backend: [ "Node.js", "PHP/Laravel", "RESTful APIs", "GraphQL" ]
+  Database: [ "MySQL Optimization", "MongoDB", "Database Design", "Query Optimization" ]
+  DevOps: [ "AWS Services", "Docker", "CI/CD", "Server Management" ]
+  
+Soft Skills:
+  Leadership: [ "Team Management", "Project Planning", "Mentoring" ]
+  Business: [ "Digital Marketing", "SEO", "Product Strategy", "Client Relations" ]
+  Innovation: [ "Problem Solving", "System Architecture", "Performance Optimization" ]
+```
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="25" /> Professional Highlights
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **Co-Founded ClicknGo Tech Service Pvt.Ltd** - Leading innovative web solutions
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **6+ Years Experience** - Full-stack development expertise
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **96+ Projects Delivered** - From startups to enterprise solutions
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="20" /> **Digital Marketing Expert** - SEO, SEM, and growth strategies
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="🌐" width="35" /> Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/astarand/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
+<a href="https://x.com/RittikSadhukhan">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+</a>
+<a href="https://imrittik.in">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio" />
+</a>
+<a href="mailto:Rittik.SK@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/astarand_official">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+<a href="https://facebook.com/rittik.sadhukhan/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+</a>
+
+<a href="https://discord.gg/8DFwaBvs">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord" />
+</a>
+
+<br><br>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="35" /> Profile Analytics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Astarand&color=A9FEF7&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Astarand?color=A9FEF7&style=for-the-badge&label=Followers&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Astarand?color=A9FEF7&style=for-the-badge&label=Stars&logo=github)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+</div>
+
 ---
 
-### 🚀 **Featured Projects**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=💡+Innovation+through+Code;🚀+Building+Tomorrow's+Solutions;⚡+Powered+by+Passion+%26+Coffee" alt="Footer Typing" />
+</div>
 
-Here are some of the projects I am most proud of:
+<div align="center">
+  
+**"First, solve the problem. Then, write the code."** - *John Johnson*
 
-#### 1. **[E-Cashbook](https://github.com/Astarand/E-Cashbook)**  
-A **financial management tool** for businesses, developed to simplify and automate cashbook management. This project leverages **Laravel** and **MySQL** for robust backend processing and data handling.
+*Let's build something amazing together!* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="🤝" width="25" />
 
-#### 2. **[meta-React](https://github.com/Astarand/meta-React)**  
-An **advanced front-end project** exploring **React** and **Next.js**, showcasing best practices and high-level UI/UX elements.
-
-#### 3. **[360Business](https://github.com/Astarand/360Business)**  
-A **comprehensive business solution** designed with **CakePHP** and **ReactJS**, focusing on enterprise-level tools to improve operational efficiency.
-
----
-
-### 🧑‍💻 **About Me**
-
-I am a passionate developer who loves solving complex problems and creating innovative solutions. With a strong foundation in both frontend and backend technologies, I enjoy building **full-stack applications** that are optimized, scalable, and user-friendly.
-
-- **Location**: West Bengal, India
-- **Experience**: 5+ years in Full Stack Development
-- **Email**: [Rittik.SK@hotmail.com](mailto:Rittik.SK@hotmail.com)
-- **Portfolio**: [techkrafty.com](https://techkrafty.com)
-
----
-
-### 🌱 **Let’s Connect**
-
-You can reach out to me through the following channels:
-
-- **[LinkedIn](https://www.linkedin.com/in/astarand/)**
-- **[Twitter](https://x.com/RittikSadhukhan)**
-- **[Portfolio](https://techkrafty.com)**
-
----
-
-### 📈 **Visitors Count**
-
-![Visitors Badge](https://komarev.com/ghpvc/?username=Astarand&color=brightgreen&style=for-the-badge)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — **Cory House**
+</div>
