@@ -64,39 +64,6 @@ const rittik = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" /> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Astarand&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Rittik's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astarand&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Astarand&theme=highcontrast&hide_border=true&border_radius=10&card_width=800&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&currStreakNum=FFFFFF&sideLabels=A9FEF7&dates=c9d1d9" alt="Rittik's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astarand&custom_title=Rittik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 💰 **E-Cashbook** | ⚛️ **meta-React** | 💼 **360Business** |
-|:---:|:---:|:---:|
-| Financial management tool built with **Laravel & MySQL** | Advanced React & Next.js showcase with modern UI/UX | Comprehensive business solution with **CakePHP & ReactJS** |
-| [![E-Cashbook](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=E-Cashbook&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/E-Cashbook) | [![meta-React](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=meta-React&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/meta-React) | [![360Business](https://github-readme-stats.vercel.app/api/pin/?username=Astarand&repo=360Business&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Astarand/360-Biz-Services.git) |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🏆 Achievements & Skills
 
